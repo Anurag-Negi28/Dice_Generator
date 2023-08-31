@@ -86,4 +86,4 @@ Retrospective:
 
 The Online Dice Generator project successfully embraced Agile methodologies, focusing on collaboration, flexibility, and delivering value to the end-users. The iterative development approach allowed for continuous improvement and incorporation of user feedback. By adhering to Agile values, the team created a functional and user-friendly web application that meets the needs of tabletop gamers and role-playing enthusiasts.
 
-## Author - Anurag Negi, Rohit Hooda, Bhavya Jain
+## Authors - Anurag Negi, Rohit Hooda, Bhavya Jain
